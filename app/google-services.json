@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951680112589",
+    "project_id": "frienzy-71c21",
+    "storage_bucket": "frienzy-71c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951680112589:android:e58bb907ec1316e2529684",
+        "android_client_info": {
+          "package_name": "com.example.frienzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951680112589-541g71hrss6o55jqo5ip3vbmmojo7rf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYWW4mvJf_gda1Ya8rPUCRG_Ky8VEYWbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951680112589-541g71hrss6o55jqo5ip3vbmmojo7rf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
